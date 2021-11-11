@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/actionProfile"
+        android:icon="@drawable/profile"
+        android:title="Profile"/>
+
+    <item
+        android:id="@+id/actionAndroid"
+        android:icon="@drawable/android"
+        android:title="Android"/>
+    <item
+        android:id="@+id/actionFlutter"
+        android:icon="@drawable/flutter"
+        android:title="Flutter"/>
+    <item
+        android:id="@+id/actionSetting"
+        android:icon="@drawable/setting"
+        android:title="Setting"/>
+    <item
+        android:id="@+id/actionUiux"
+        android:icon="@drawable/uiux"
+        android:title="Uiux"/>
+    <item
+        android:id="@+id/actionExperience"
+        android:icon="@drawable/experience"
+        android:title="Experience"/>
+
+
+</menu>

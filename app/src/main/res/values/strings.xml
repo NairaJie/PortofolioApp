@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PortofolioApp</string>
+    <string name="txt_image_view">Image view</string>
+    <string name="txt_jabel">Jabel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_portofolio">Portofolio</string>
+    <string name="txt_documentation_link">Documentation Link</string>
+    <string name="txt_android_app">50 Android</string>
+    <string name="txt_flutter_app">50 Flutter</string>
+    <string name="txt_career">Career</string>
+    <string name="txt_about">About</string>
+    <string name="txt_content">Content</string>
+    <string name="app_android_btn">%s App Android</string>
+    <string name="documentation_link">Documentation Link</string>
+    <string name="txt_detail_experience">Detail Experience</string>
+</resources>

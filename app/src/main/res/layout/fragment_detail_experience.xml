@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailExperienceFragment">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ivDetailProfile"
+            android:contentDescription="@string/txt_image_view"
+           tools:src="@tools:sample/avatars"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/txt_jabel"
+            android:layout_margin="@dimen/_16dp"
+            android:textStyle="bold"
+            android:maxLines="1"
+            android:textColor="@color/black"
+            android:id="@+id/tvTitleName"
+            android:textSize="@dimen/_22sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="@string/txt_detail_experience"
+            android:layout_margin="@dimen/_16dp"
+            android:id="@+id/tvContentDetailExperience"/>
+    </LinearLayout>
+
+
+
+
+</androidx.core.widget.NestedScrollView>
